@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/humamchoudhary/AI-voice-assistant">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="auto" height="100">
   </a>
 
 <h3 align="center">Pyrvis</h3>
