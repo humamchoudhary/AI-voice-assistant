@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Pyrvis</h3>
 
   <p align="center">
-    project_description
+    An basic AI voice assistant
     <br />
     <a href="https://github.com/humamchoudhary/AI-voice-assistant"><strong>Explore the docs »</strong></a>
     <br />
@@ -67,7 +67,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -88,7 +88,7 @@ A simple intelligent voice assistant which can do alot of different tasks. List 
 * Open your dropbox
 * Tell you different jokes
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,9 +109,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+To setup this project locally on your computer follow the steps below.
 
 ### Installation
 
@@ -121,25 +119,12 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/humamchoudhary/AI-voice-assistant.git
    ```
 2. Requirement
-  ```sh
-  pip install -r requirements.txt
-  ```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 
 <!-- CONTRIBUTING -->
