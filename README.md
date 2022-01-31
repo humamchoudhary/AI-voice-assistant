@@ -157,7 +157,7 @@ Project Link: [https://github.com/humamchoudhary/AI-voice-assistant](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/humamchoudhary/My-template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/humamchoudhary/AI-voice-assistant.svg?style=for-the-badge
 [contributors-url]: https://github.com/humamchoudhary/AI-voice-assistant/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/humamchoudhary/AI-voice-assistant.svg?style=for-the-badge
 [forks-url]: https://github.com//humamchoudhary/AI-voice-assistant/network/members
